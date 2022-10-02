@@ -1,0 +1,15 @@
+/control/verbose 0
+/tracking/verbose 0
+#
+/run/initialize
+#
+/gun/particle proton
+/gun/energy 300 GeV
+#
+#/OpNovice/gun/optPhotonPolar
+#/run/beamOn 1
+#
+/gun/position -2 0 0 mm
+/gun/direction 1 0 0
+/SiPMCrystal/gun/optPhotonPolar
+/run/beamOn 1

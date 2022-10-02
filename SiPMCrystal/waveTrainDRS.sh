@@ -1,0 +1,16 @@
+#root waveTrainDRS.C\(\"20200930_DRS/9-30-2020-4ch-SiPM-LYSO-69V.dat\",0,-1.5,-1.5,-1.4,-1.8\)
+#root waveTrainDRS.C\(\"20201001_HDR2/10-1-2020-HDR2-40.3V-Na22.dat\",0,-1.8,-1.8,-1.6,-1.6\)
+#root waveTrainDRS.C\(\"20201001_HDR2/10-1-2020-HDR2-41.3V-S12-69V-LYSO-Na22.dat\",0,-2.1,-2.1,-1.8,-1.8\)
+#root waveTrainDRS.C\(\"20201001_HDR2/10-1-2020-HDR2-42.3V-S12-69V-LYSO-Na22.dat\",0,-3.5,-3.5,-3.2,-3.2\)
+#root waveTrainDRS.C\(\"20201001_HDR2/10-1-2020-HDR2-43.3V-S12-69V-LYSO-Na22.dat\",0,-4.5,-4.5,-3.2,-3.2\)
+#root waveTrainDRS.C\(\"20201001_HDR2/10-1-2020-HDR2-44.3V-S12-69V-LYSO-Na22.dat\",0,-5.5,-5.5,-3.2,-3.2\)
+root waveTrainDRS.C\(\"20201002_hdr2/HDR40.0_S1270_Na22.dat\",1,-0.25,-0.25,-1.15,-1.3\)
+root waveTrainDRS.C\(\"20201002_hdr2/HDR40.3_S1270_Na22.dat\",1,-0.35,-0.35,-1.15,-1.3\)
+root waveTrainDRS.C\(\"20201002_hdr2/HDR41.3_S1270_Na22.dat\",1,-0.85,-0.85,-1.15,-1.3\)
+#root waveTrainDRS.C\(\"20201002_hdr2/HDR41.3_S1270_noNa22.dat\",1,-0.85,-0.85,-1.15,-1.3\)
+#root waveTrainDRS.C\(\"20201002_hdr2/HDR41.3_S1270_noNa22_T12.dat\",1,-0.85,-0.85,-1.15,-1.3\)
+#root waveTrainDRS.C\(\"20201002_hdr2/HDR41.3_S1270_noNa22_T34.dat\",1,-0.85,-0.85,-1.15,-1.3\)
+root waveTrainDRS.C\(\"20201002_hdr2/HDR42.3_S1270_Na22.dat\",1,-1.3,-1.3,-1.15,-1.3\)
+root waveTrainDRS.C\(\"20201002_hdr2/HDR43.3_S1270_Na22.dat\",1,-1.9,-1.9,-1.15,-1.3\)
+
+
